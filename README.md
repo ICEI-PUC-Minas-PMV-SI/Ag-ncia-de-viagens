@@ -27,6 +27,8 @@ Mostrem também as justificativas para o desenvolvimento do trabalho e evidencie
 #2. Participantes do processo de negócio
 Identifiquem hipoteticamente os diferentes perfis dos Stakeholders (participantes do processo) chave do sistema. Procurem caracterizar os diferentes papéis desempenhados no(s) processo(s) relacionados ao tema escolhido pelo grupo. Cada papel desempenha funções diferentes no(s) processo(s).
 
+![Stakeholders_imagem](https://user-images.githubusercontent.com/89228013/130331623-7a58189c-464f-42ae-8ef8-e148a1ee24d0.JPG)
+
 # 3. Modelagem do processo de negócio
 
 # 3.1. Análise da situação atual (AS-IS)
