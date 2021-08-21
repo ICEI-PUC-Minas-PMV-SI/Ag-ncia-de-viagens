@@ -27,30 +27,6 @@ Mostrem também as justificativas para o desenvolvimento do trabalho e evidencie
 #2. Participantes do processo de negócio
 Identifiquem hipoteticamente os diferentes perfis dos Stakeholders (participantes do processo) chave do sistema. Procurem caracterizar os diferentes papéis desempenhados no(s) processo(s) relacionados ao tema escolhido pelo grupo. Cada papel desempenha funções diferentes no(s) processo(s).
 
-OS STAKEHOLDERS	DESCRIÇÃO 
-Educação	Estudantes, funcionários comprometidos com treinamentos e desenvolvimento
-
-Turistas	mochileiros, famílias, alto luxo, negócios, aventura, ano sabático, estudantes.
-
-Utilitários e Infraestrutura	centrais elétricas, empresas de serviços públicos, manutenção rodoviária
-
-organização não governamental
-	Sociedade de Turismo, 
-Pequenas e Médias empresas	Agente de viagens, restaurantes, hotéis
-
-Transporte	companhias aéreas, de táxi, ônibus turístico, cruzeiros e trens.
-
-Organizações de Turismo e operadores	Agentes de viagem, Organizações de marketing de destino – DMO, blogueiros de viagens;
-
-Governo	Local, regional, internacional
-Comunidade	comunidade anfitriã, Comunidade turística, comunidade internacional
-Funcionários	motoristas de táxi, serviços gerais, representantes de férias, operações de call-center, CEO’s.
-
-Fornecedores	fazendeiros, fábrica, manufaturas
-
-
-
-
 # 3. Modelagem do processo de negócio
 
 # 3.1. Análise da situação atual (AS-IS)
