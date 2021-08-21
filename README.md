@@ -10,12 +10,19 @@ Belo Horizonte – MG – Brasil
 barbaragelape@gmail.com, douglasfcj@hotmail.com, simonecruz.m@gmail.com, 1181893@sga.pucminas.br, valeria.santos.1327230@sga.pucminas.br
 
 ## Resumo. 
-Escrevam aqui o resumo. O resumo deve contextualizar rapidamente o trabalho, descrever seu objetivo e, ao final, mostrar algum resultado relevante obtido (até 10 linhas).
-
+O tema escolhido pelo grupo foi Agência de viagem. Este trabalho tem por finalidade entender e propor melhorias nos processos desenvolvidos na comercialização de produtos e seus desafios diante das novas tecnologias e do novo cenário pós-pandemia, visto que foi a partir desses fatos que se iniciou toda uma reestruturação no mercado de agências. 
 # 1. Introdução 
-A introdução deve apresentar de dois a quatro parágrafos de contextualização do trabalho. Na contextualização, o grupo de trabalho deve dizer do que se trata o trabalho, em que área ou contexto se insere. A contextualização deve ser desenvolvida de algo mais genérico para algo mais específico. A citação de pesquisas quantitativas é bem aceita aqui (corretamente referenciadas).
-Em seguida, a equipe de trabalho deve detalhar o problema que o projeto pretende resolver, descrevendo sua motivação.
-O grupo deverá escolher um contexto pertencente à lista de temas postados pelas professoras. Uma vez escolhido o contexto de negócio, o mesmo deverá ser estudado e detalhado pelo grupo por meio de pesquisa.
+O turismo é uma das principais atividades econômicas do Brasil. Para atender a demanda do setor muitas empresas se valeram dos serviços de agências que faziam todo o trabalho de hospedagem, transporte, alimentação e etc. E com o aumento das atividades e serviços cada vez mais diversificados as agências enfrentaram e enfrentam desafios para atender os clientes.  
+
+Além da adequação as novas tecnologias do setor turístico assim como todos os outros setores enfrentam agora os desafios impostos pela pandemia de acordo com a Forbes “O turismo foi um dos setores mais afetados pela pandemia de Covid-19 e um dos primeiros a sentir os impactos negativos causados pelas políticas de restrições, cancelamento de viagens e fechamento de fronteiras. 
+
+Em dezembro de 2020, a OMT (Organização Mundial do Turismo) divulgou uma nota informando que o período entre janeiro e outubro do ano passado perdeu 900 milhões de turistas internacionais, impacto que se traduz na perda de US$ 935 bilhões em receitas.” 
+
+Segundo os especialistas do setor a recuperação dos índices positivos apresentados antes da pandemia será demorada visto que apesar da imunização as incertezas ainda permeiam a recuperação do setor.  A pandemia criou algumas tendências e acelerou outras, como por exemplo a aplicação da tecnologia para melhor gerenciamento e personalização da oferta dos produtos das agências.  
+
+Diante dos desafios que estão por vir e os que já estão enfrentando esse setor nosso grupo irá, embasado em pesquisas e estudos, propor melhorias para o desenvolvimento dos processos de negócios no setor do turismo. 
+
+ 
 
 # 1.1. Objetivos geral e específicos 
 O grupo deve escrever um pequeno parágrafo ou frase com o objetivo geral do trabalho. O objetivo deve ser bem direto, específico e definido com verbos de ação (elaborar, modelar, propor, avaliar, comparar,  etc).
