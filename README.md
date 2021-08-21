@@ -32,7 +32,11 @@ Apresentem também, pelo menos, dois objetivos específicos dependendo de onde o
 Mostrem também as justificativas para o desenvolvimento do trabalho e evidenciem alguma contribuição ou benefício do trabalho para o desafio proposto.
 
 # 2. Participantes do processo de negócio
-Identifiquem hipoteticamente os diferentes perfis dos Stakeholders (participantes do processo) chave do sistema. Procurem caracterizar os diferentes papéis desempenhados no(s) processo(s) relacionados ao tema escolhido pelo grupo. Cada papel desempenha funções diferentes no(s) processo(s).
+Stakeholders ou partes interessadas são qualquer pessoa envolvida com um projeto, organização ou setor específico, no caso envolvidos com o projeto de "Agência de Viagem". Os stakeholders portanto podem ser uma pessoa individual, como um turista ou um motorista de táxi. Podem ser um grupo de pessoas, podem ser uma empresa ou organização. Não necessariamente estamos falando de um agente diretamente envolvido financeiramente com o negócio.  
+Stakeholders no setor de turismo:
+A Teoria das Partes Interessadas trata da maneira como as partes interessadas devem ser levadas em consideração ao tomar decisões de negócios. Foi desenvolvida pelo R. Edward Freeman em 1984. Desde então, empresas e organizações em uma variedade de setores utilizam os estudos de Freeman nos planos operacionais. 
+Definir os Stakeholders é fundamental para tratar a melhor forma de trabalhar e satisfazer os interesses das partes envolvidas. 
+A indústria do turismo/viagem é uma das maiores que existe no mundo. Conforme tabela abaixo, foram descritas algumas das parte interessadas	envolvidas no negócio de agência de viagens. 	
 
 ![Stakeholders_imagem](https://user-images.githubusercontent.com/89228013/130331623-7a58189c-464f-42ae-8ef8-e148a1ee24d0.JPG)
 
