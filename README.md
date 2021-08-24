@@ -25,11 +25,10 @@ Diante dos desafios que estão por vir e os que já estão enfrentando esse seto
  
 
 # 1.1. Objetivos geral e específicos 
-O grupo deve escrever um pequeno parágrafo ou frase com o objetivo geral do trabalho. O objetivo deve ser bem direto, específico e definido com verbos de ação (elaborar, modelar, propor, avaliar, comparar,  etc).
-Apresentem também, pelo menos, dois objetivos específicos dependendo de onde o grupo de trabalho concentrará sua prática investigativa ou aprofundará o trabalho.
+O presente probjeto tem como objetivo geral elaborar uma web sistema para criação de uma agência de viagens totalmente online. Bem como, tem como objetivos específicos buscar um diferencial para com as agências de viagens que já adotam o sistema online e propor que a agência seja online de forma integral sem a necessidade de sistemas presenciais.
 
 # 1.2. Justificativas 
-Mostrem também as justificativas para o desenvolvimento do trabalho e evidenciem alguma contribuição ou benefício do trabalho para o desafio proposto.
+Em um mundo cada vez mais interativo, é clara a necessidade de mudança e modernização em diferentes setores da sociedade. Viajar é algo que sempre esteve presente na vida dos brasileiros, contudo, ainda somos cercados por sistemas arcaicos usados por agências de viagens tradicionais. A partir de tal ponto, há de se enxergar a necessidade de transformar o serviço em uma plataforma integralmente online, entregando assim, a comodidade e eficiência ao cliente que poderá marcar a sua viagem diretamente do conforto de sua casa
 
 # 2. Participantes do processo de negócio
 Stakeholders ou partes interessadas são qualquer pessoa envolvida com um projeto, organização ou setor específico, no caso envolvidos com o projeto de "Agência de Viagem". Os stakeholders portanto podem ser uma pessoa individual, como um turista ou um motorista de táxi. Podem ser um grupo de pessoas, podem ser uma empresa ou organização. Não necessariamente estamos falando de um agente diretamente envolvido financeiramente com o negócio.  
