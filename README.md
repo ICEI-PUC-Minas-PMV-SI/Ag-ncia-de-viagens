@@ -33,6 +33,8 @@ Em um mundo cada vez mais interativo, é clara a necessidade de mudança e moder
 # 2. Participantes do processo de negócio
 Stakeholders ou partes interessadas são qualquer pessoa envolvida com um projeto, organização ou setor específico, no caso envolvidos com o projeto de "Agência de Viagem". Os stakeholders portanto podem ser uma pessoa individual, como um turista ou um grupo de turistas. Podem ser um grupo de pessoas, podem ser uma empresa ou pessoas da 3° idade. Não necessariamente estamos falando de um agente diretamente envolvido financeiramente com o negócio.  
 Stakeholders no setor de turismo:A Teoria das Partes Interessadas trata da maneira como as partes interessadas devem ser levadas em consideração ao tomar decisões de negócios. Foi desenvolvida pelo R. Edward Freeman em 1984. Desde então, empresas e organizações em uma variedade de setores utilizam os estudos de Freeman, do livro Strategic Management: A Stakeholder Aproach, nos planos operacionais.
+Definir os Stakeholders é fundamental para tratar a melhor forma de trabalhar e satisfazer os interesses das partes envolvidas. 
+A indústria do turismo/viagem é uma das maiores que existe no mundo. Conforme tabela abaixo foram descritas algumas das partes interessadas envolvidas no negócio de agência de viagens. 	
 
 OS STAKEHOLDERS	DESCRIÇÃO 
 Turista	Mochileiros, famílias, alto luxo, negócios, aventura, ano sabático, estudantes;
