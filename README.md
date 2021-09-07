@@ -35,7 +35,15 @@ Stakeholders ou partes interessadas são qualquer pessoa envolvida com um projet
 Stakeholders no setor de turismo:
 A Teoria das Partes Interessadas trata da maneira como as partes interessadas devem ser levadas em consideração ao tomar decisões de negócios. Foi desenvolvida pelo R. Edward Freeman em 1984. Desde então, empresas e organizações em uma variedade de setores utilizam os estudos de Freeman nos planos operacionais. 
 Definir os Stakeholders é fundamental para tratar a melhor forma de trabalhar e satisfazer os interesses das partes envolvidas. 
-A indústria do turismo/viagem é uma das maiores que existe no mundo. Conforme tabela abaixo, foram descritas algumas das parte interessadas	envolvidas no negócio de agência de viagens. 	
+A indústria do turismo/viagem é uma das maiores que existe no mundo. Conforme tabela abaixo, foram descritas algumas das parte interessadas	envolvidas no negócio de agência de viagens. 
+
+OS STAKEHOLDERS	DESCRIÇÃO 
+Turista	Mochileiros, famílias, alto luxo, negócios, aventura, ano sabático, estudantes;
+Pequenas e Médias empresas	Agente de viagens, hotéis;
+Transporte	Companhias aéreas, ônibus turístico, cruzeiros e trens;
+Organizações de Turismo e operadores	Agentes de viagem, Organizações de marketing de destino – DMO;
+Fornecedores	Fazendeiros, fábricas, manufaturas
+
 
 ![Stakeholders_imagem](https://user-images.githubusercontent.com/89228013/130331623-7a58189c-464f-42ae-8ef8-e148a1ee24d0.JPG)
 
