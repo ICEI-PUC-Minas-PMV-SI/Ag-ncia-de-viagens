@@ -25,7 +25,13 @@ Diante dos desafios que estão por vir e os que já estão enfrentando esse seto
  
 
 # 1.1. Objetivos geral e específicos 
-O presente probjeto tem como objetivo geral elaborar uma web sistema para criação de uma agência de viagens totalmente online. Bem como, tem como objetivos específicos buscar um diferencial para com as agências de viagens que já adotam o sistema online e propor que a agência seja online de forma integral sem a necessidade de sistemas presenciais.
+ OBJETIVO GERAL: 
+Elaborar uma web sistema para criação de uma agência de viagens totalmente online 
+
+OBJETIVO ESPECÍFICOS: 
+• Identificar modalidade de pacotes e viagens através de sistema online. 
+• Controlar reservas de turistas 
+
 
 # 1.2. Justificativas 
 Em um mundo cada vez mais interativo, é clara a necessidade de mudança e modernização em diferentes setores da sociedade. Viajar é algo que sempre esteve presente na vida dos brasileiros, contudo, ainda somos cercados por sistemas arcaicos usados por agências de viagens tradicionais. A partir de tal ponto, há de se enxergar a necessidade de transformar o serviço em uma plataforma integralmente online, entregando assim, a comodidade e eficiência ao cliente que poderá marcar a sua viagem diretamente do conforto de sua casa
